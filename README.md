@@ -22,5 +22,6 @@
 
 ## &#x1f4c8; GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kedar-ai&show_icons=true&locale=en" alt="kedar-ai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedar-ai&theme=radical&layout=compact" alt="kedar-ai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kedar-ai&" alt="kedar-ai" /></p>
