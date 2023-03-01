@@ -75,12 +75,15 @@
 </div>
 
  <p align = "center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kedar-ai&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kedar-ai&theme=tokyonight&hide_border=true" alt="kedar-ai">
 </p>
   
   <!--- <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedar-ai&theme=tokyonight&hide_border=true">
 </p> --->
+<div align="center">
+  <img src="https://github.com/Kedar-ai/Kedar-ai/blob/main/Images/divider2.png" alt="divider"/>
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
